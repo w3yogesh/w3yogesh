@@ -4,7 +4,7 @@
 <img align="right"alt="coding" width="250" src="https://github.com/w3yogesh/w3yogesh/assets/27480542/1b1b81af-fb97-486c-a294-fa1c316c321a"5
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w3yogesh&label=Profile%20views&color=0e75b6&style=flat" alt="w3yogesh" /> </p>
 
-- 🌱 I’m currently pursuing ***Master of Computer Application*** from NIT Allahabad
+- 🌱 I’m currently pursuing ***Master of Computer Application*** from *NIT Allahabad*.
 - 💬 Ask me about *web development*
 - ⚡ Fun fact **I am funny😎**
 
