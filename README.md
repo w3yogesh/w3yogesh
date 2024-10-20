@@ -1,33 +1,146 @@
-<h1 align="center"> Hi ✌️, I'm Yogesh Kumar Sai </h1>
+<!-- Header Image -->
+![w3yogesh banner](https://github.com/user-attachments/assets/d994da14-8452-431f-907f-6d6b29b38783)
 
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
-<img align="right"alt="coding" width="250" src="https://github.com/w3yogesh/w3yogesh/assets/27480542/1b1b81af-fb97-486c-a294-fa1c316c321a"5
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=w3yogesh&label=Profile%20views&color=0e75b6&style=flat" alt="w3yogesh" /> </p>
 
-- 🌱 I’m currently pursuing ***Master of Computer Application*** from *NIT Allahabad*.
-- 💬 Ask me about *web development*
-- ⚡ Fun fact **I am funny😎**
+# 👋 Hi there, I'm **Yogesh Kumar Sai**!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/w3yogesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/w3yogesh/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/w3yogesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lussifar.r" height="30" width="40" /></a>
-<a href="https://www.instagram.com/w3yogesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/w3yogesh/" height="30" width="40" /></a>
+**MCA Student at Motilal Nehru National Institute of Technology, Allahabad**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/w3yogesh/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:w3yogesh@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/w3yogesh)
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Software Engineer** specializing in **Full Stack Development** with hands-on experience in **MERN stack** and **Cloud Technologies** (AWS). I love building scalable applications and solving challenging problems in **web development** and **software engineering**. Currently, I am pursuing MCA at ***NIT Allahabad***, I've built a wide range of scalable applications and worked on both frontend and backend systems. I aim to leverage my skills to contribute to innovative projects that make a positive impact.
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white" alt="Stripe">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w3yogesh" alt="w3yogesh" /></a> </p>
-<br>
-<p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=w3yogesh&show_icons=true&locale=en" alt="w3yogesh" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=w3yogesh&show_icons=true&locale=en&layout=compact" alt="w3yogesh" /></p>
+---
+
+## 📚 Projects
+
+### 🌟 [HiChat – Real-Time Communication Platform](https://github.com/Sandipan103/HiChat)
+
+<a href="https://hichat.w3yogesh.com/" target="_blank"><img src="https://img.shields.io/badge/Live_App-HiChat-red?style=for-the-badge&logo=appveyor"></a>
+<a href="https://www.linkedin.com/posts/w3yogesh_nodejs-react-mongodb-activity-7183065267055337472-dWvF?utm_source=share&utm_medium=member_desktop" target="_blank"><img src="https://img.shields.io/badge/linkedin-Post-blue?style=for-the-badge&logo=linkedin"></a>
+
+**Technologies**: Node.js, React.js, Express.js, MongoDB, Socket.io, Zegocloud API
+
+- 🚀 Developed a **real-time communication platform** for seamless messaging, audio, and video calls, enhancing user connectivity.
+- 🛠️ Integrated **WebSocket technology** for instant messaging, ensuring low-latency communication and a smooth user experience.
+- 📞 Enabled **group chat functionality** to support effective collaboration and team discussions.
+- 💬 Enhanced user engagement with **emojis and reactions**, making conversations more expressive and enjoyable.
+- 📂 Incorporated **file sharing** capabilities, allowing users to easily share documents and media within chats.
+- 📅 Developed a **user-friendly interface** for easy navigation and a streamlined user experience.
+- 🔔 Implemented **push notifications** to keep users informed of new messages and call invitations.
+- 🏅 Achieved **top 7 position** at a college event, showcasing the platform's innovation and effectiveness.
+
+
+---
+
+### 🌱 [DeepLink – Professional Networking & Job Search Platform](https://github.com/w3yogesh/deepLink)
+<a href="https://deeplink.w3yogesh.com/" target="_blank"><img src="https://img.shields.io/badge/Live_App-DeepLink-red?style=for-the-badge&logo=appveyor"></a>
+<a href="https://www.linkedin.com/posts/w3yogesh_codesangam-webster-mnnit-activity-7150812343986229249-ojuL?utm_source=share&utm_medium=member_desktop" target="_blank"><img src="https://img.shields.io/badge/linkedin-Post-blue?style=for-the-badge&logo=linkedin"></a>
+
+**Technologies**: Node.js, React.js, Express.js, MongoDB, Socket.io
+
+- 🌐 Created a **professional networking platform** with real-time messaging and skill endorsements.
+- 📊 Integrated dynamic job search and connection features for users to find opportunities.
+- 📄 Enabled **profile creation** with fields for education, experience, and skills to showcase professional backgrounds.
+- 🔔 Implemented **notifications** for job openings, connection requests, and endorsements to keep users engaged.
+- 🛠️ Developed a **user-friendly interface** to enhance the overall user experience.
+- 🤝 Facilitated **one-to-one messaging** to encourage networking and collaboration among users.
+- 🏅 Ranked among **top 10 projects** in a college competition.
+
+---
+
+### 🏨 [goBook – Hotel Booking Web Application](https://github.com/amantripathigithub/goBook)
+<a href="https://gobook-web.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_App-HiChat-blue?style=for-the-badge&logo=appveyor"></a>
+
+**Technologies**: EJS, Node.js, Express.js, MongoDB, Stripe
+
+- 🏨 Built a **hotel booking platform** with integrated Stripe payments.
+- 💳 Users can search hotels, filter by price, and make secure online payments.
+- 🏅 Placed in the **top 5 at a college DevJam event**.
+
+---
+
+## 📝 Experience
+
+### **Freelance Web Developer**
+**April 2023 – Present**
+
+- ☁️ Hosted projects on AWS, demonstrating strong capabilities in cloud technologies to ensure reliable and scalable solutions, achieving uptime of over 30%.
+- 🛒 Updated the user interface of an eCommerce platform, significantly enhancing user experience and accessibility, resulting in a 45% increase in user engagement.
+- 📊 Managed the project lifecycle, coordinating with stakeholders to ensure alignment with client requirements and timelines.
+- 📈 Analyzed and reduced API load, implementing optimizations that improved performance and response times.
+- 🔄 Updated and refactored APIs to enhance functionality and ensure seamless integration with front-end components.
+- 🔍 Conducted user testing and gathered feedback to identify areas for further improvement and refinement.
+- 🔧 Provided ongoing support and maintenance, ensuring the platform remained up-to-date with the latest technologies and best practices.
+
+
+
+## 🏆 Achievements
+
+- Achieved **Top 7** position in a competitive tech fest for the **HiChat** project, showcasing my ability to deliver innovative solutions.
+- Ranked among the **Top 10** projects in a college competition for **DeepLink**.
+- Secured **Top 5** placement at the DevJam event for the **goBook** application.
+- **Freelance Experience**: Expertise in hosting websites on AWS, optimizing user interfaces, and enhancing functionality to elevate user experience and engagement.
+
+
+---
+
+## 🖥️ Technical Skills
+
+<div align="center">
+  
+| Category | Technologies |
+| --- | --- |
+| **Programming Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frameworks & Libraries** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
+  
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:w3yogesh@gmail.com"><img src="https://img.shields.io/badge/-w3yogesh%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/w3yogesh/"><img src="https://img.shields.io/badge/-w3yogesh-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/w3yogesh"><img src="https://img.shields.io/badge/-w3yogesh-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
-<br>
-<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w3yogesh&" alt="w3yogesh" /></p>
+---
 
+<!-- Dynamic Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
+</p>
 
+---
 
+<!-- Footer -->
+<p align="center">
+ Crafted with dedication🔥 and a love for coding❤.
+</p>
